@@ -7,6 +7,7 @@ const client = new MongoClient(uri);
 
 const dbname = "bank";
 const collection_name = "accounts";
+const accountsCollection = client.db(dbname).collection(collection_name);
 
 
 const connectToDatabase = async () => {
