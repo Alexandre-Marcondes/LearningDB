@@ -1,0 +1,1 @@
+module.exports = uri = "mongodb+srv://alexmarcondes1111:gJ52kXuGcvEUnDrR@mongolearn.8v3wv.mongodb.net/?retryWrites=true&w=majority&appName=MongoLearn"
